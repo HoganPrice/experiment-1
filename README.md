@@ -85,7 +85,7 @@ uv run python -m src.Work0.main
 
 运行程序后，移动鼠标可以看到粒子向鼠标位置聚集，松开或快速移动鼠标时粒子会因为惯性散开，碰到边界后弹回。整体表现为一团粒子跟随鼠标运动并在窗口内振荡。
 
-<video src="演示视频.mp4" controls width="640"></video>
+![运行效果演示](video.gif)
 
 ## 六、依赖
 
