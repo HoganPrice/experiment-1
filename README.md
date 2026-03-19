@@ -125,7 +125,7 @@ uv run python -m src.work1.main --dry-run
 
 可在本节补充你的运行截图/GIF（例如 `work1_demo.gif`）：
 
-![实验二运行效果](演示视频.gif)
+![实验二运行效果](video.gif)
 
 ## 六、实验结论
 
